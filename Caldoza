@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Winter Wonderland Party Program</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #5f9cff, #b6d4ff);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+    section {
+      background: #fff;
+      margin-bottom: 1.5rem;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    section h2 {
+      margin-top: 0;
+      border-bottom: 2px solid #e6ecf5;
+      padding-bottom: 0.5rem;
+      color: #2c4f91;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 0.4rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+    .badge {
+      display: inline-block;
+      background: #e9f1ff;
+      color: #2c4f91;
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      margin-right: 0.3rem;
+      margin-bottom: 0.3rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.85rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎉 Party Program Plan</h1>
+    <p><strong>Theme:</strong> Winter Wonderland | <strong>Estimated Attendees:</strong> 26–30</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>🏠 Family Representatives</h2>
+      <ul>
+        <li><strong>Batobalonos:</strong> Auntie Violy</li>
+        <li><strong>Juntong:</strong> Auntie Lucill</li>
+        <li><strong>Maurice:</strong> Jessa</li>
+        <li><strong>Janjan (Judilla):</strong> Janjan</li>
+        <li><strong>Salvado:</strong> Teresa</li>
+        <li><strong>Charlie:</strong> Charlie</li>
+        <li><strong>Melda:</strong> Melda</li>
+        <li><strong>Jessica:</strong> Jessica</li>
+        <li><strong>Hydee:</strong> If attending</li>
+        <li><strong>Mama / Marq / Ebel / Manang:</strong> Manang or Ebel</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🗂️ Gift Categories</h2>
+      <span class="badge">Self-care</span>
+      <span class="badge">Home-use</span>
+      <span class="badge">Kitchen-use</span>
+      <span class="badge">Cleaning / Practical</span>
+    </section>
+
+    <section>
+      <h2>🍽️ Food Pledges</h2>
+      <ul>
+        <li><strong>Auntie Violy:</strong> Additional Sud-an / Dessert</li>
+        <li><strong>Janjan:</strong> 2 Food Tray Main Dish</li>
+        <li><strong>Auntie Melda / Jessica:</strong> Puso</li>
+        <li><strong>Auntie Lucill:</strong> Liquor & Soft Drinks</li>
+        <li><strong>Maurice:</strong> Lechon Manok (3–4 whole, depende sa ma pledge)</li>
+        <li><strong>Charlie:</strong> Carcar Lechon (depende sa kilo na madala)</li>
+        <li><strong>Hydee:</strong> Cake & Wine</li>
+        <li><strong>Manang / Ebel:</strong> Game Prizes for Kids</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🕒 Schedule</h2>
+      <ul>
+        <li><strong>8–10 AM:</strong> Games & videoke (kids & adults)</li>
+        <li><strong>11 AM–1 PM:</strong> Early lunch</li>
+        <li><strong>2–3 PM:</strong> Games (adults & kids)</li>
+        <li><strong>3–3:30 PM:</strong> Gift exchange</li>
+      </ul>
+      <p><strong>Mechanics (Bisaya):</strong><br />
+        Magdala ug parehas nga gift (min ₱50), unisex & useful. Ibutang sa paper bag. Rotate until all items shared.
+      </p>
+      <ul>
+        <li><strong>3:30–4 PM:</strong> Snacks & photo ops</li>
+        <li><strong>5 PM:</strong> Homebound</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>💰 Prize Sponsors</h2>
+      <div class="grid">
+        <div>Juntong</div>
+        <div>Batobalonos</div>
+        <div>Judilla</div>
+        <div>Hydee</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © Winter Wonderland Family Party
+  </footer>
+</body>
+</html>
